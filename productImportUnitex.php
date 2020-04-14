@@ -1,7 +1,7 @@
 <?php
    /*
-   Plugin Name: Product Import Unitex
-   Description: Import Rugs from Unitex Master Feed
+   Plugin Name: Product Import
+   Description: Import Rugs from Master Feed
    Version: 1.0
    Author: Omer Siddique
    Author URI: https://teslait.com.au
